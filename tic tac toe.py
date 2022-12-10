@@ -92,3 +92,5 @@ while True:
 
     if not replay():
         break
+
+print("good work")
